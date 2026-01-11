@@ -11,7 +11,7 @@ This repository contains solutions to a DevOps-oriented Python assignment coveri
 ```
 devops-python-assignment/
 ├── Q1_password/
-│   └── password_checker.py
+│   └── password_check.py
 ├── Q2_cpu/
 │   └── cpu_monitor.py
 ├── Q3_config/
@@ -33,7 +33,7 @@ Validates passwords based on:
 Run:
 ```
 cd Q1_password
-python3 password_checker.py
+python3 password_check.py
 ```
 
 ## Q2 – CPU Monitoring
